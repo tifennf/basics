@@ -1,3 +1,3 @@
-module github.com/tifennf/basics/go
+module basics
 
 go 1.19
